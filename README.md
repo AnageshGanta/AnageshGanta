@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AnageshGanta
-My name is Anagesh Ganta. I am a student at the University of Texas at Dallas in the Naveen Jindal School of Management majoring in Information Technology Systems.
+- 👋 Hi, I’m @AnageshGanta, a student at the University of Texas at Dallas in the Naveen Jindal School of Management majoring in Information Technology Systems.
 
 - 👀 I have cultivated an immense interest in information technology, management, and the integration of business skills to achieve various goals in the IT field.
 I am actively developing my technical skills to become a fullstack developer.
